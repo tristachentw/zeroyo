@@ -8,11 +8,11 @@ CLI tool for web application generator.
 
 **npm**
 
-    $ npm install zeroyo
+    $ npm install tristachentw/zeroyo -g
 
 **yarn**
 
-    $ yarn add zeroyo
+    $ yarn add tristachentw/zeroyo global
 ## Usage
 
     $ zeroyo
