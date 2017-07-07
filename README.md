@@ -12,7 +12,7 @@ CLI tool for web application generator.
 
 **yarn**
 
-    $ yarn add tristachentw/zeroyo global
+    $ yarn global add tristachentw/zeroyo
 ## Usage
 
     $ zeroyo
