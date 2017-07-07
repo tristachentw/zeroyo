@@ -1,0 +1,30 @@
+{
+  "name": "zeroyo",
+  "version": "1.0.0",
+  "description": "CLI tool for web application generator",
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": {
+    "zeroyo": "lib/cli.js"
+  },
+  "main": "lib/cli.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tristachentw/zeroyo.git"
+  },
+  "author": "Trista Chen",
+  "license": "MIT",
+  "keywords": [
+    "zeroyo",
+    "cli",
+    "dev",
+    "web"
+  ],
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.1.1",
+    "ncp": "^2.0.0"
+  }
+}
