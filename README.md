@@ -1,7 +1,7 @@
 # Zeroyo
 CLI tool for web application generator.
 
-## Requirements
+## Prerequisites
 + Node.js v8 or newer
 
 ## Installation
@@ -13,7 +13,8 @@ CLI tool for web application generator.
 **yarn**
 
     $ yarn global add tristachentw/zeroyo
-## Usage
+
+## Getting Started
 
     $ zeroyo
 
@@ -26,8 +27,9 @@ CLI tool for web application generator.
 <img src="docs/screenshots/initial-done.png">
 
 ## Application Type
-**Single Page Application**
+**Full scrolling**
 
++ jQuery + fullpage.js
 + ES6
 + Stylus
 + Combine image to single sprite
@@ -38,5 +40,9 @@ CLI tool for web application generator.
 coming soon!
 
 **RESTful Web Application**
+
+coming soon!
+
+**Library**
 
 coming soon!
