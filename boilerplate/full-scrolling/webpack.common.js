@@ -1,5 +1,6 @@
 import path from 'path';
 import webpack from 'webpack';
+import nib from 'nib';
 import ExtractTextPlugin from 'extract-text-webpack-plugin';
 import CleanWebpackPlugin from 'clean-webpack-plugin';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
@@ -32,7 +33,7 @@ export default {
           options: { sourceMap: true }
         }, {
           loader: 'stylus-loader',
-          options: { sourceMap: true }
+          options: { sourceMap: true, use: [nib()], import: ['~nib/lib/nib/index.styl'] }
         }]
       })
     }, {
