@@ -35,6 +35,14 @@ CLI tool for web application generator.
 + Combine image to single sprite
 + Webpack config for develope and production
 
+**React UI Without Router**
+
++ react + redux
++ ES6
++ Stylus
++ Combine image to single sprite
++ Webpack config for develope and production
+
 **Isomorphic Application**
 
 coming soon!
